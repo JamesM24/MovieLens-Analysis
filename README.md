@@ -1,2 +1,3 @@
 # MovieLens-Analysis
-Analysing a movies data set
+
+Analysing data set from MovieLens (https://grouplens.org/datasets/movielens/) containing 25m ratings
